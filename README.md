@@ -1,7 +1,7 @@
 # 💫 Earl Brando Andrino
 
-I’m currently working on [PeopleConnect](https://github.com/vjoseph6/PeopleConnectCapstone).<br/>
-I’m currently working on [Random Site](https://viora-cosmetics.vercel.app/).
+I’m currently working on my [Portfolio]([https://github.com/vjoseph6/PeopleConnectCapstone](https://my-average-portoflio.vercel.app/)).<br/>
+
 
 ---
 
