@@ -1,6 +1,6 @@
 # 💫 Earl Brando Andrino
 
-I’m currently working on my [Portfolio]([https://github.com/vjoseph6/PeopleConnectCapstone](https://my-average-portoflio.vercel.app/)).<br/>
+I’m currently working on my [Portfolio]([https://my-average-portoflio.vercel.app/]).<br/>
 
 
 ---
