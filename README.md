@@ -1,6 +1,6 @@
 # 💫 Earl Brando Andrino
 
-I’m currently working on my average [Portfolio](https://my-average-portoflio.vercel.app/).<br/>
+I’m currently working on my average [Portfolio](https://my-average-portfolio-v2.vercel.app/).<br/>
 
 
 
